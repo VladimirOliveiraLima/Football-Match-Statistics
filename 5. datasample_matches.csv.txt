@@ -1,0 +1,4 @@
+Rodada,Data,Hora,Time_Mandante,Gols_Mandante,Time_Visitante,Gols_Visitante,Estadio
+1,2023-04-16,16:00,Flamengo,3,Corinthians,1,Maracanã
+1,2023-04-16,18:30,Palmeiras,2,São Paulo,2,Allianz Parque
+...

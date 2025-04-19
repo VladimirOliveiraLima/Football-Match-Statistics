@@ -1,0 +1,15 @@
+# Estatísticas do Campeonato Brasileiro
+
+Projeto em Python que analisa dados históricos do Campeonato Brasileiro: partidas, artilheiros, rodadas, desempenho por time, mandante vs visitante, etc.
+
+## Funcionalidades
+- Leitura de dados CSV ou API pública
+- Cálculo de estatísticas: média de gols, vitórias, empates, derrotas, pontos
+- Geração de gráficos por time, rodada ou classificação
+- Comparativo de desempenho entre times
+
+## Instalação
+```bash
+git clone https://github.com/seuusuario/brasileirao-estatisticas.git
+cd brasileirao-estatisticas
+pip install -r requirements.txt
